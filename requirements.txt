@@ -1,0 +1,10 @@
+torch==1.12.1
+opencv-python==4.9.0.80
+numpy==1.24.3
+imageio==2.34.0
+timm==0.4.12
+scipy
+pickle
+decimal
+glob
+scikit-image
