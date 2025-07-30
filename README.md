@@ -1,5 +1,7 @@
 # LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning
 
+[[arxiv](https://arxiv.org/abs/2506.22710)]
+
 Created by [Jiang Yuan](https://github.com/Fieldhunter), [Ji Ma](https://github.com/MJ-NCEPU), [Bo Wang](https://github.com/wangbo2016), [Guanzhou Ke](https://github.com/Guanzhou-Ke), Weiming Hu
 
 This repository contains PyTorch implementation for LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning (Accepted by ICCV 2025).
@@ -35,5 +37,10 @@ Select the corresponding degradation condition parameters and perform testing: `
 
 ## Citation
 ```
-
+@article{lightbsr,
+  title={LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning},
+  author={Yuan, Jiang and Ma, JI and Wang, Bo and Ke, Guanzhou and Hu, Weiming},
+  journal={arXiv preprint arXiv:2506.22710},
+  year={2025}
+}
 ```
